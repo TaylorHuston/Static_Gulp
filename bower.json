@@ -1,0 +1,24 @@
+{
+  "name": "site_49thfloor",
+  "homepage": "http://www.49thfloor.com",
+  "authors": [
+    "Taylor Huston <taylor.a.huston@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3",
+    "teenytinycss": "*"
+  }
+}

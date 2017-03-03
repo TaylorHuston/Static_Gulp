@@ -1,0 +1,35 @@
+{
+  "name": "49thfloor",
+  "version": "1.0.0",
+  "description": "The website for my freelance web design business",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorHuston/Site_49thFloor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaylorHuston/Site_49thFloor/issues"
+  },
+  "homepage": "https://github.com/TaylorHuston/Site_49thFloor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-contrib-copy": "^0.1.2",
+    "gulp-copy": "0.0.2",
+    "gulp-deploy-ftp": "0.0.2",
+    "gulp-file-include": "^1.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0",
+    "livereload": "^0.6.0"
+  }
+}
